@@ -1,0 +1,36 @@
+*.avs
+
+# Figures
+*.fig
+*.eps
+
+# Figure, result, & workspace directories
+figures/
+results/
+workspaces/
+
+# Assignment I instruction
+Matlab Assignment 1.pdf
+Matlab_Instruction1 .pdf
+
+# Assignment II instruction
+Instruction 2_FF_evaluation_temp.mlx
+Matlab Assignment 2.pdf
+
+# Assignment III instruction
+Matlab Assignment 3 SW.pdf
+Matlab Instruction 3 SW.pdf
+
+# Assignment IV instruction
+Matlab Instruction 4 LW.pdf
+MATLAB Instruction 4 - Leaky Waves.pdf
+
+# Assignment V instruction
+1.1.pdf
+1.2.pdf
+
+# Assignment VI instruction
+2.pdf
+
+# Project list
+PROJECTS_exams_EE4620.pdf
